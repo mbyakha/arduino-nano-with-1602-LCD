@@ -6,7 +6,7 @@
  arduino nano <br>
  1602 liquid crystal I2C<p>
  
- connection <b>
+<h2>connection <b></b></h2> 
  blog: https://viewincode.co.ke/arduino_lcd-i2c-sreen-lcd-16x2/
 
  
