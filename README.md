@@ -4,9 +4,9 @@
 
  <h2> hardware requirements </h2> <br>
  arduino nano <br>
- 1602 liquid crystal I2C <br>
+ 1602 liquid crystal I2C<p>
  
- connection <p>
+ connection <b>
  blog: https://viewincode.co.ke/arduino_lcd-i2c-sreen-lcd-16x2/
 
  
