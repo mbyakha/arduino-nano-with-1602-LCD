@@ -1,4 +1,4 @@
-<h1> arduino nano with 1602 liquid crystal <b></b> </h1> <br>
+<h1> arduino nano with 1602 lcd I2C <b></b> </h1> <br>
  arduino nano is connected with 1602 liquidcrystal screen <br>
  The project gives a basis for future arduino projects that will require the use of 1602 liquidcrystal <br>
 
